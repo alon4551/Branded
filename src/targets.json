@@ -1,0 +1,12 @@
+{
+    "signin": "http://localhost:3000/signin",
+    "signup": "http://localhost:3000/signup",
+    "signout": "http://localhost:3000/signout",
+    "genders": "http://localhost:3000/genders",
+    "users": "http://localhost:3000/users",
+    "active": "http://localhost:3000/Active",
+    "update": "http://localhost:3000/user",
+    "password": "http://localhost:3000/password",
+    "delete": "http://localhost:3000/user",
+    "getUser": "http://localhost:3000/user"
+}
